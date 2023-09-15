@@ -1,0 +1,4 @@
+Label,# Samples,Average,Median,90% Line,95% Line,99% Line,Min,Max,Error %,Throughput,Received KB/sec,Sent KB/sec
+PLP,1,735,735,735,735,735,735,735,0.000%,1.36054,912.88,0.20
+Television,1,22,22,22,22,22,22,22,0.000%,45.45455,29732.20,6.61
+TOTAL,2,378,22,735,735,735,22,735,0.000%,2.63852,1748.12,0.39

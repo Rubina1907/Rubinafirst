@@ -1,0 +1,4 @@
+Label,# Samples,Average,Median,90% Line,95% Line,99% Line,Min,Max,Error %,Throughput,Received KB/sec,Sent KB/sec
+Order Placed,633,1526,1495,1635,1689,2870,861,2936,0.158%,1.83208,3.31,2.36
+Call back API,632,1203,972,2333,2358,2929,269,4359,0.633%,1.84444,1.25,1.27
+TOTAL,1265,1365,1422,1677,2340,2870,269,4359,0.395%,3.66103,4.55,3.62

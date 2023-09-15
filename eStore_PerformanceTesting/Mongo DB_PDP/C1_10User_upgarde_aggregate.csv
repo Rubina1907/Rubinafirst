@@ -1,0 +1,4 @@
+Label,# Samples,Average,Median,90% Line,95% Line,99% Line,Min,Max,Error %,Throughput,Received KB/sec,Sent KB/sec
+POST || ValidateDealer,1169,39,37,49,54,71,28,166,0.000%,3.77675,1.95,0.98
+OfferList,1169,2586,2609,2771,2811,2913,703,3043,0.000%,3.75840,40.40,2.05
+TOTAL,2338,1312,166,2720,2771,2860,28,3043,0.000%,7.51428,42.33,3.03
